@@ -55,6 +55,4 @@ Here are some ideas to get you started:
 </br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanish-khadgi1137&show_icons=true&locale=en" alt="sanish-khadgi1137" /></p>
-</br>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanish-khadgi1137&" alt="sanish-khadgi1137" /></p>
