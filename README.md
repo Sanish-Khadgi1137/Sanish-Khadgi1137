@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif"/>
+
 -->
 
 ![MasterHead](https://cdn.vectorstock.com/i/500p/14/95/banner-software-ui-and-development-for-different-vector-37731495.jpg)
@@ -23,7 +25,6 @@ Here are some ideas to get you started:
 <h3 align="center">A energetic and passionate Software Engineer.</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanish-khadgi1137&label=Profile%20views&color=0e75b6&style=flat" alt="sanish-khadgi1137" /> </p>
@@ -54,5 +55,6 @@ Here are some ideas to get you started:
 </br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanish-khadgi1137&show_icons=true&locale=en" alt="sanish-khadgi1137" /></p>
+</br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanish-khadgi1137&" alt="sanish-khadgi1137" /></p>
